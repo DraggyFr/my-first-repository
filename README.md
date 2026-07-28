@@ -1,2 +1,5 @@
-# my-first-repository
-My first GitHub repository.
+# My First GitHub Repository
+
+Just exploring GitHub and learning how it works.
+
+Created my first repository.
